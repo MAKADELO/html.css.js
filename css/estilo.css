@@ -75,14 +75,14 @@ header a:hover,
 
 /* logotipo */
 
-#logo{
+/*#logo{
 	font-family: "permanente";
 	font-size: 10px;
 }
 
 #logo a{
 	transition:  color 500ms, transform 500ms;
-}
+}*/
 
 header #logo:hover{
 	background:transparent;
